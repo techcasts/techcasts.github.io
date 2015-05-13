@@ -1,0 +1,22 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               tech casts
+tagline:             'A Jekyll theme'
+description:         'My landing place for my "One Project a day" experiment. This site runs on <a href="http://jekyllrb.com/" target="_blank">Jekyll.</a> Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:                 http://10.0.0.30:4000
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Ryan Tiffany
+  url:               https://twitter.com/ryantiffany
+  email:             ryantiffany@gmail.com
+
+# Custom vars
+version:             1.0.0
