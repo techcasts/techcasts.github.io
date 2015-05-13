@@ -8,8 +8,9 @@ relative_permalinks: true
 title:               tech casts
 tagline:             ''
 description:         'My landing place for my "One Project a day" experiment. This site runs on <a href="http://jekyllrb.com/" target="_blank">Jekyll.</a> Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://10.0.0.30:4000
+url:                 http://tech-casts.com
 baseurl:             ''
+github.repo:	     https://github.com/techcasts/techcasts.github.io
 paginate:            5
 
 # About/contact
